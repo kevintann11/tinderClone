@@ -1,2 +1,2 @@
 # tinderClone
-My version of Tinder
+This is an educational project for my own self-improvement. I have decided that one of the best ways I could prepare myself for entering the workforce would be by learning crucial skills in development. Therefore, I felt inspired to recreate one of the world's most popular apps, Tinder. This is more of an interface dupe rather than an exact clone. Instead of it being a dating site for humans, it would be a dating app for dogs! By undertaking a project like this, it will expose me to new skills like JS, MySQL, and React. This will be crucial for the development of my career.
